@@ -711,3 +711,5 @@ service worker + web app manifest · optional Claude API
 No CSS framework and no component library — the interface is built from a small
 design system in `frontend/src/styles/theme.css` drawn from the crafts
 themselves: indigo dye, marigold, madder red and unbleached cotton.
+#   P A V H A N  
+ 
